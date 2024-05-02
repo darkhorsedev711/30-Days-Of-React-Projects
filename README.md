@@ -31,4 +31,4 @@ A collection of React projects ranging from basic to advanced.
    ```sh
        npm run dev
    ```
-   Your project will be accessible at http://localhost:5173/.
+   Your project will be accessible at http://localhost:5173/
